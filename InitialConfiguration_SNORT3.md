@@ -109,3 +109,8 @@ snort -c /etc/snort/snort.lua -R /etc/snort/rules/local.rules -i ens18 -A alert_
 > Autres options d'alerte :
 >- alert_fast
 >- alert_full
+
+
+## Réponse 
+
+![Alt text](https://github.com/Slimnad/Procedure_Snort/blob/main/pingSnort_alert.png) 
