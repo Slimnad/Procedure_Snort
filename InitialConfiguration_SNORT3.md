@@ -115,5 +115,6 @@ snort -c /etc/snort/snort.lua -R /etc/snort/rules/local.rules -i ens18 -A alert_
 
 ![Alt text](https://github.com/Slimnad/Procedure_Snort/blob/main/pingSnort_alert.png)
 
-![image](https://github.com/user-attachments/assets/646edeb6-0a2c-4a87-8c34-162f57e38025)
+![image](https://github.com/user-attachments/assets/2d03bae3-d546-4dea-9869-57ad395883aa)
+
 
