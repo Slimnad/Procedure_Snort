@@ -62,4 +62,7 @@ o"  )~   Version 3.2.2.0
 $my_path/bin/snort --daq-list
 
 
+## Preuve
+![image](https://github.com/user-attachments/assets/c9b33e22-3a06-4210-8146-403610012898)
+
 
